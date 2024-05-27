@@ -1,52 +1,50 @@
 Start:
-    Studiewijzer:
-        "Lees allereerst even rustig de studiewijzer door": /syllabus
-    Voordat we beginnen:
-        "Leesmij": "/data/readme"
-        "Installatie": "/installatie/start"
-    Cases:
-        "Chips & Circuits": /cases/chips-circuits
-        "Protein Pow(d)er": /cases/protein-pow-d-er
-        "RailNL": /cases/railnl
-        "Rush Hour": /cases/rush-hour
-        "SmartGrid": /cases/smartgrid
-        "Lectures & Lesroosters": /cases/lectures-en-lesroosters
-    Voorbeeldcase:
-        "Radio Russia": /cases/radio-russia
-
+  Studiewijzer:
+    "Lees allereerst even rustig de studiewijzer door": /syllabus
+  Voordat we beginnen:
+    "Leesmij": "/data/readme"
+    "Supplement minor AI": /naslag/ai_students
+    "Installatie": "/installatie/start"
+  Cases:
+    # "Amstelhaege": /cases/amstelhaege
+    "Chips & Circuits": /cases/chips-circuits
+    "Protein Pow(d)er": /cases/protein-pow-d-er
+    "RailNL": /cases/railnl
+    "Rush Hour": /cases/rush-hour
+    "SmartGrid": /cases/smartgrid
+    # "Space Freight": /cases/space-freight
+    "Lectures & Lesroosters": /cases/lectures-en-lesroosters
+  Voorbeeldcase:
+    "Radio Russia": /cases/radio-russia
 Week 1:
-    Colleges:
-        "Introductie (maandag 11:00)": /lectures/opening
-        "Problemen (dinsdag 13:00)": /lectures/problemen
-        "Live coding (vrijdag 13:00)": /lectures/live_coding_1
-    Milestones:
-        "Case & Teamnaam kiezen (dinsdag 12:00)": /milestones/case
-        "State space (donderdag 17:00)": /milestones/state_space
-        "Representatie (maandag 12 juni 17:00)": /milestones/representation
-    Naslag:
-        "Git Lecture": "/lectures/git"
-        "Git naslag": "/naslag/git"
-        "Markdown": /naslag/markdown
-
+  Live colleges:
+    "Opening (maandag 9:00 - 11:00)": /lectures/opening
+    "Problemen (dinsdag 13:00 - 15:00)": /lectures/problemen
+    "Live coding (donderdag 15:00 - 17:00)": /lectures/live_coding_1
+  Milestones:
+    "Case & Teamnaam kiezen (maandag 17:00)": /milestones/case
+    "State space (woensdag 13:00)": /milestones/state_space
+    "Representatie (vrijdag 17:00)": /milestones/representation
+  Naslag:
+    "Git Lecture": "/lectures/git"
+    "Git naslag": "/naslag/git"
+    "Markdown": /naslag/markdown
 Week 2:
-    Colleges:
-        "Constructieve algoritmen (maandag 15:00)": /lectures/zoekalgoritmen
-        "Iteratieve algoritmen (dinsdag 13:00)": /lectures/optimalisatie_algoritmen
-        "Live coding (vrijdag 13:00)": /lectures/live_coding_2
-    Milestones:
-        "Representatie (maandag 17:00)": /milestones/representation
-        "Baseline (donderdag 17:00)": /milestones/baseline
-        "Plan individueel onderdeel": /milestones/individueel_onderdeel
-
+  Live colleges:
+    "Constructieve algoritmen (maandag 9:00 - 11:00)": /lectures/zoekalgoritmen
+    "Iteratieve algoritmen (dinsdag 13:00 - 15:00)": /lectures/optimalisatie_algoritmen
+    "Live coding (donderdag 15:00 - 17:00)": /lectures/live_coding_2
+  Milestones:
+    "Baseline (donderdag 17:00)": /milestones/baseline
+    "Plan individueel onderdeel (vrijdag 17:00)": /milestones/individueel_onderdeel
 Week 3:
-    Live coding colleges:
-        "Experimenteren (maandag 11:00)": /lectures/experimenteren
-    Milestones:
-        "Oefenpresentatie (woensdag)": "/lectures/oefenpresentatie"
-        "inleveren individueel onderdeel (vrijdag 17:00)": /milestones/individueel_onderdeel2
-
+  Live colleges:
+    "Experimenteren (maandag 9:00 - 11:00)": /lectures/experimenteren
+  Milestones:
+    "Oefenpresentatie (woensdag)": "/lectures/oefenpresentatie"
+    "inleveren individueel onderdeel (vrijdag 17:00)": /milestones/individueel_onderdeel2
 Week 4:
-    Milestones:
-        "Experiment (dinsdag 23:59)": "/milestones/experiment"
-        "Oplevering (woensdag 23:59)": "/milestones/deliverable"
-        "Presentatie": "/milestones/presentation"
+  Milestones:
+    "Experiment (dinsdag 23:59)": "/milestones/experiment"
+    "Oplevering (woensdag 23:59)": "/milestones/deliverable"
+    "Presentatie": "/milestones/presentation"
