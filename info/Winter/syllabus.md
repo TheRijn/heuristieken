@@ -1,10 +1,10 @@
-# Programmeertheorie<br><small>a.k.a. Heuristieken</small>
+# Algoritmen en Heuristieken<br><small>a.k.a. Heuristieken</small>
 
 ## Studiewijzer, winter 2023
 
-Deze cursus is de afsluiting van de Minor Programmeren.
+Deze cursus is de afsluiting van de Minor Programmeren en de Minor Artificial Intelligence.
 Na vele maanden ervaring opdoen met programmeren, met object-georiënteerd programmeren en met problem solving, komt hier alles samen.
-Bij dit vak ga je jouw programmeervaardigheid inzetten om met AI-technieken een onoplosbaar probleem op te lossen.
+Bij dit vak ga je jouw programmeervaardigheid inzetten om met klassieke AI-technieken een onoplosbaar probleem op te lossen.
 Gaandeweg leer je over verschillende soorten problemen, wat de limitaties zijn van je computer en het belang van datastructuren.
 
 ## Docenten
