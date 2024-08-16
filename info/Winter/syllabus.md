@@ -1,6 +1,6 @@
 # Algoritmen en Heuristieken<br><small>a.k.a. Heuristieken</small>
 
-## Studiewijzer, winter 2023
+## Studiewijzer, winter 2024
 
 Deze cursus is de afsluiting van de Minor Programmeren en de Minor Artificial Intelligence.
 Na vele maanden ervaring opdoen met programmeren, met object-georiënteerd programmeren en met problem solving, komt hier alles samen.
