@@ -119,7 +119,7 @@ Deze repository moet tenminste je eindproduct, een README, een equivalent aan ee
 De link naar deze repository geef je aan het begin van het vak aan je TA.
 Een voorbeeld van hoe je je GitHub repository op zou kunnen zetten vind je [hier](https://github.com/minprog/voorbeeld-repo).
 
-Voor alle informatie, zie de [oplevering van het eindproduct](/milestones/deliverable). De deadline hiervoor is woensdag 1 februari 23:59.
+Voor alle informatie, zie de [oplevering van het eindproduct](/milestones/deliverable). De deadline voor het inleveren hiervan is woensdag 29 januari 23:59.
 
 #### Presentatie
 
@@ -128,7 +128,7 @@ _Laat zien wat je hebt geleerd._
 Aan het einde van het vak presenteer je met je hele groepje over de case waar je aan gewerkt hebt.
 Het is de bedoeling dat de presentatie alle milestones van het project tot één geheel brengt. Concreet moet de presentatie daarom bestaan uit een inleiding, uitleg over de oplossingsruimte, een beschrijving van gebruikte methoden, resultaten en de vergelijking hiervan, en tot slot een discussie.
 
-Voor een uitgebreide uitleg over de eindpresentatie zie [deze pagina](/milestones/presentation). De presentatiesessies vinden plaats op donderdag 1 februari en vrijdag 2 februari.
+Voor een uitgebreide uitleg over de eindpresentatie zie [deze pagina](/milestones/presentation). De presentatiesessies vinden plaats op donderdag 30 januari en vrijdag 31 januari. In de derde week van het vak doen we op de woensdag oefenpresentaties.
 
 #### Technische beschrijving
 
@@ -138,26 +138,26 @@ Tijdens het vak zal ieder individu in de groep een eigen onderdeel uit het proje
 
 Voor meer informatie over de technische beschrijving, zie [de milestonepagina](/milestones/individueel_onderdeel). De uiterste deadline hiervoor is vrijdag 24 januari om 17:00. Natuurlijk kan je het ook eerder inleveren als je klaar bent.
 
-<!-- ## Kalender
+## Kalender
 
 In de tabel hieronder kan je zien wanneer de colleges zijn en de grote lijnen van de planning. Deze kan je ook terugvinden in de kantlijn op deze website. De hoorcolleges vind je ook in het rooster van het vak op [datanose.nl](https://datanose.nl/#course[98926]).
 
 | ---- + ------------------------------------------ + -------------------------------------------------------------- |
 | Week | | Onderdeel |
 | ---: | ------------------------------------------ | -------------------------------------------------------------- |
-| 1 | Interpretatie van de case | Maandag 11 uur: Openingscollege |
-| | | Dinsdag 15 uur: College over problemen |
+| 1 | Interpretatie van de case | Maandag 9 uur: Openingscollege |
+| | | Dinsdag 13 uur: College over problemen |
 | | | Donderdag 15 uur: Live coding college |
 | ---- + ------------------------------------------ + -------------------------------------------------------------- |
-| 2 | Een baseline zetten | Maandag 15 uur: College over zoekalgoritmen |
-| | | Dinsdag 15 uur: College over optimalisatie-algoritmen |
+| 2 | Een baseline zetten | Maandag 13 uur: College over zoekalgoritmen |
+| | | Dinsdag 13 uur: College over optimalisatie-algoritmen |
 | | | Donderdag 15 uur: Live coding college |
 | ---- + ------------------------------------------ + -------------------------------------------------------------- |
-| 3 | Algoritmen & resultaten | Maandag 15 uur: College over experimenteren |
+| 3 | Algoritmen & resultaten | Maandag 13 uur: College over experimenteren |
 | | | Woensdag: Oefenpresentaties |
 | ---- + ------------------------------------------ + -------------------------------------------------------------- |
 | 4 | Vergelijken & presenteren | Donderdag & Vrijdag: Eindpresentaties |
-| ---- + ------------------------------------------ + -------------------------------------------------------------- | -->
+| ---- + ------------------------------------------ + -------------------------------------------------------------- |
 
 ## Regels voor samenwerken
 
