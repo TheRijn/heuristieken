@@ -18,8 +18,8 @@ Start:
     "Radio Russia": /cases/radio-russia
 Week 1:
   Live colleges:
-    "Opening (maandag 11:00 - 13:00)": /lectures/opening
-    "Problemen (dinsdag 15:00 - 17:00)": /lectures/problemen
+    "Opening (maandag 13:00 - 15:00)": /lectures/opening
+    "Problemen (dinsdag 13:00 - 15:00)": /lectures/problemen
     "Live coding (donderdag 15:00 - 17:00)": /lectures/live_coding_1
   Milestones:
     "Case & Teamnaam kiezen (maandag 17:00)": /milestones/case

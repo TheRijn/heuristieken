@@ -59,14 +59,14 @@ Je kiest samen met je team voor een case via [deze pagina](/milestones/case).
 
 Om jullie goed op gang te helpen bij het project hebben we een reeks milestones. Van ieder van deze milestones wordt verwacht dat je ze gedurende het project afrond. De milestones en hun deadlines zijn:
 
-- [Case kiezen](/milestones/case) (maandag 8 januari 17:00)
-- [State space](/milestones/state_space) (woensdag 11 januari 13:00)
-- [Representatie](/milestones/representation) (vrijdag 12 januari 17:00)
-- [Baseline](/milestones/baseline) (donderdag 18 januari 17:00)
-- [Plan individueel onderdeel](/milestones/individueel_onderdeel) (vrijdag 19 januari 17:00)
-- [Inleveren individueel onderdeel](/milestones/individueel_onderdeel2) (vóór vrijdag 26 januari 17:00)
-- [Experiment](/milestones/experiment) (dinsdag 30 januari 23:59)
-- [Oplevering](/milestones/deliverable) (woensdag 31 januari 23:59)
+- [Case kiezen](/milestones/case) (maandag 6 januari 17:00)
+- [State space](/milestones/state_space) (woensdag 8 januari 13:00)
+- [Representatie](/milestones/representation) (vrijdag 10 januari 17:00)
+- [Baseline](/milestones/baseline) (donderdag 16 januari 17:00)
+- [Plan individueel onderdeel](/milestones/individueel_onderdeel) (vrijdag 17 januari 17:00)
+- [Inleveren individueel onderdeel](/milestones/individueel_onderdeel2) (vóór vrijdag 24 januari 17:00)
+- [Experiment](/milestones/experiment) (dinsdag 28 januari 23:59)
+- [Oplevering](/milestones/deliverable) (woensdag 29 januari 23:59)
 
 De links wijzen naar pagina's met en uitgebreide beschrijving van de milestones. Deze informatie en de deadlines zijn ook te vinden in de weekplanning.
 
@@ -136,9 +136,9 @@ _Laat zien wat je hebt gedaan._
 
 Tijdens het vak zal ieder individu in de groep een eigen onderdeel uit het project uitwerken. Het individuele deel bepaald deels je cijfer, en moet gedurende het project besproken worden met je mentoren. Na het behalen van de "baseline" milestone bespreekt ieder individu in de groep met de mentoren wat voor een onderdeel uit het project diegene gaat uitwerken. Dit kan bijvoorbeeld het uitwerken en programmeren van een visualisatie, een specifiek algoritme, een specifiek experiment, of een grote verbetering van de door de groep gebruikte probleemrepresentatie zijn. Hier maak je eerst een beschrijving van, die goedgekeurd moet worden door je mentoren.
 
-Voor meer informatie over de technische beschrijving, zie [de milestonepagina](/milestones/individueel_onderdeel). De uiterste deadline hiervoor is vrijdag 26 januari om 17:00. Natuurlijk kan je het ook eerder inleveren als je klaar bent.
+Voor meer informatie over de technische beschrijving, zie [de milestonepagina](/milestones/individueel_onderdeel). De uiterste deadline hiervoor is vrijdag 24 januari om 17:00. Natuurlijk kan je het ook eerder inleveren als je klaar bent.
 
-## Kalender
+<!-- ## Kalender
 
 In de tabel hieronder kan je zien wanneer de colleges zijn en de grote lijnen van de planning. Deze kan je ook terugvinden in de kantlijn op deze website. De hoorcolleges vind je ook in het rooster van het vak op [datanose.nl](https://datanose.nl/#course[98926]).
 
@@ -157,7 +157,7 @@ In de tabel hieronder kan je zien wanneer de colleges zijn en de grote lijnen va
 | | | Woensdag: Oefenpresentaties |
 | ---- + ------------------------------------------ + -------------------------------------------------------------- |
 | 4 | Vergelijken & presenteren | Donderdag & Vrijdag: Eindpresentaties |
-| ---- + ------------------------------------------ + -------------------------------------------------------------- |
+| ---- + ------------------------------------------ + -------------------------------------------------------------- | -->
 
 ## Regels voor samenwerken
 
