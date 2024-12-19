@@ -18,7 +18,7 @@ Start:
     "Radio Russia": /cases/radio-russia
 Week 1:
   Live colleges:
-    "Opening (maandag 13:00 - 15:00)": /lectures/opening
+    "Opening (maandag 9:00 - 11:00)": /lectures/opening
     "Problemen (dinsdag 13:00 - 15:00)": /lectures/problemen
     "Live coding (donderdag 15:00 - 17:00)": /lectures/live_coding_1
   Milestones:
@@ -31,15 +31,15 @@ Week 1:
     "Markdown": /naslag/markdown
 Week 2:
   Live colleges:
-    "Constructieve algoritmen (maandag 15:00 - 17:00)": /lectures/zoekalgoritmen
-    "Iteratieve algoritmen (dinsdag 15:00 - 17:00)": /lectures/optimalisatie_algoritmen
+    "Constructieve algoritmen (maandag 13:00 - 15:00)": /lectures/zoekalgoritmen
+    "Iteratieve algoritmen (dinsdag 13:00 - 15:00)": /lectures/optimalisatie_algoritmen
     "Live coding (donderdag 15:00 - 17:00)": /lectures/live_coding_2
   Milestones:
     "Baseline (donderdag 17:00)": /milestones/baseline
     "Plan individueel onderdeel (vrijdag 17:00)": /milestones/individueel_onderdeel
 Week 3:
   Live colleges:
-    "Experimenteren (maandag 15:00 - 17:00)": /lectures/experimenteren
+    "Experimenteren (maandag 13:00 - 15:00)": /lectures/experimenteren
   Milestones:
     "Oefenpresentatie (woensdag)": "/lectures/oefenpresentatie"
     "inleveren individueel onderdeel (vrijdag 17:00)": /milestones/individueel_onderdeel2
@@ -47,4 +47,4 @@ Week 4:
   Milestones:
     "Experiment (dinsdag 23:59)": "/milestones/experiment"
     "Oplevering (woensdag 23:59)": "/milestones/deliverable"
-    "Presentatie": "/milestones/presentation"
+    "Eindpresentatie": "/milestones/presentation"
