@@ -12,6 +12,6 @@ In dit college wordt de [Radio Russia case](/cases/radio-russia) gebruikt als vo
 
 In de volgende GitHub repository vind je de code van dit college: [github.com/minprog/radio_russia_demo](https://github.com/minprog/radio_russia_demo/tree/college_2)
 
-### Linkje!
+<!-- ### Linkje!
 
-<https://prod.liveshare.vsengsaas.visualstudio.com/join?33C3207D43A7CA3223D71FFD8B51B91BD37D>
+<https://prod.liveshare.vsengsaas.visualstudio.com/join?33C3207D43A7CA3223D71FFD8B51B91BD37D> -->

@@ -8,8 +8,10 @@ De verschillende onderwerpen uit het college zijn ook terug te kijken op [YouTub
 
 ### Slides
 
-Zijn [hier](Iteratief.pdf) te downloaden.
+Slides coming soon!
+
+<!-- Zijn [hier](Iteratief.pdf) te downloaden. -->
 
 ### Memory graphs
 
-Bas heeft ook een [Python package](https://pypi.org/project/memory-graph/) gemaakt, wat je kunt gebruiken om lastige reference-bugs op te lossen!
+Bas heeft ook een [Python package](https://pypi.org/project/memory-graph/) gemaakt, die je kunt gebruiken om lastige reference-bugs op te lossen!
