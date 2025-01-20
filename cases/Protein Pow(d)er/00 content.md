@@ -16,14 +16,14 @@ Om de boel enigzins beheersbaar te houden gaan we uit van een 2D grid waarbij we
 1. Schrijf een algoritme dat het eiwit HHPHHHPH zo goed mogelijk vouwt. Probeer ook te kwantificeren ''hoe goed'' de vouwing is.
 2. Vouw de volgende eiwitten zo goed mogelijk. Ze zijn langer, maar zijn ze ook moeilijker?
 
-    * HHPHHHPHPHHHPH 
+    * HHPHHHPHPHHHPH
 
     * HPHPPHHPHPPHPHHPPHPH
 
     * PPPHHPPHHPPPPPHHHHHHHPPHHPPPPHHPPHPP
 
     * HHPHPHPHPHHHHPHPPPHPPPHPPPPHPPPHPPPHPHHHHPHPHPHPHH
-3. Het aminozuur Cysteine (C) heeft hele sterke bonds. Als twee Cysteine-aminozuren naast elkaar liggen krijgt het eiwit -5 op de score. 
+3. Het aminozuur Cysteine (C) heeft hele sterke bonds. Als twee Cysteine-aminozuren naast elkaar liggen krijgt het eiwit -5 op de score.
 Tussen C's en H's is de score -1, en met P's is er geen bindingseffect, dus score nul. Bepaal de beste vouwing.
 
     * PPCHHPPCHPPPPCHHHHCHHPPHHPPPPHHPPHPP
@@ -32,7 +32,7 @@ Tussen C's en H's is de score -1, en met P's is er geen bindingseffect, dus scor
 
     * HCPHPCPHPCHCHPHPPPHPPPHPPPPHPCPHPPPHPHHHCCHCHCHCHH
 
-    * HCPHPHPHCHHHHPCCPPHPPPHPPPPCPPPHPPPHPHHHHCHPHPHPHH 
+    * HCPHPHPHCHHHHPCCPPHPPPHPPPPCPPPHPPPHPHHHHCHPHPHPHH
 
 
 ## Advanced
@@ -42,10 +42,10 @@ Tussen C's en H's is de score -1, en met P's is er geen bindingseffect, dus scor
 
 
 ## Output
-Om resultaten te kunnen verifiëren is het handig om in een uniform format je output te genereren. 
+Om resultaten te kunnen verifiëren is het handig om in een uniform format je output te genereren.
 Bekijk [het voorbeeld](example_output.csv) en zorg ervoor dat jouw programma een oplossing in hetzelfde format kan omzetten.
 De 0 bij het laatste aminozuur geeft aan dat er geen buiging gedaan hoeft te worden.
-Een vereiste aan de output zijn de header-regel (regel 1) en de footer-regel (regel 11). 
+Een vereiste aan de output zijn de header-regel (regel 1) en de footer-regel (regel 11).
 Deze moeten in jouw output ook voorkomen, waarbij alleen het getal voor de score zal verschillen.
 
 N.B. Je programma hoeft hier verder niets mee te doen. Het programma hoeft dit enkel als laatste stap in het process te kunnen doen.
@@ -60,26 +60,26 @@ Deze output is gebaseerd op het format zoals bedacht door Bas Terwijn:
      "3" betekent een positieve stap in de derde dimensie  (Z-as richting).
      etc..
 
-De stappen kunnen oplopen tot in arbitraire dimensies. 
+De stappen kunnen oplopen tot in arbitraire dimensies.
 Het antwoord in `example_output.csv` kan als volgt geïnterpreteerd worden:
 
 We beginnen met hey eerste element van de proteïne 'H':
 
                H
 
-De eerste stap is 1, dus maken we een stap in de positieve X-richting en 
+De eerste stap is 1, dus maken we een stap in de positieve X-richting en
 plaatsen daar het volgende element 'H':
 
                H-H
 
-De tweede stap is 2, dus maken we een stap in de positieve Y-richting en 
+De tweede stap is 2, dus maken we een stap in de positieve Y-richting en
 plaatsen daar het volgende element 'P':
 
                  P
                  |
                H-H
 
-De volgende stap is -1, dus maken we een stap in de negatieve X-richting en 
+De volgende stap is -1, dus maken we een stap in de negatieve X-richting en
 plaatsen daar het volgende element 'H':
 
                H-P
@@ -127,8 +127,8 @@ De overige stappen resulteren in:
                H-H
 
 
-De score is het aantal paren van 'H' elementen die naast elkaar liggen, 
-maar niet verbonden zijn binnen de keten. Dit is hieronder aangegeven met de '*' 
+De score is het aantal paren van 'H' elementen die naast elkaar liggen,
+maar niet verbonden zijn binnen de keten. Dit is hieronder aangegeven met de '*'
 karakters:
 
              P-P
@@ -139,7 +139,7 @@ karakters:
                * |
                H-H
 
-De score van de bovenstaande vouwing van het proteïne is dus: 2.
+De score van de bovenstaande vouwing van het proteïne is dus: -2.
 
 
 ## Check50
