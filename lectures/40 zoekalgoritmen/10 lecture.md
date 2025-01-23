@@ -8,6 +8,6 @@ De verschillende onderwerpen uit het college zijn ook terug te kijken op [YouTub
 
 ### Slides
 
-Slides coming soon!
+<!-- Slides coming soon! -->
 
-<!-- Zijn [hier](Constructief.pdf) te downloaden. -->
+Zijn [hier](Constructief.pdf) te downloaden.
