@@ -22,7 +22,7 @@ Om Git te kunnen gebruiken op je computer, zijn er een aantal commando's op de c
 
 2. Na het inloggen, gebruikt **één** van de groepsleden de [New repository](https://github.com/new)-knop om een nieuwe repository voor de gehele groep aan te maken. Bedenk een leuke naam voor jullie groep, die je dan ook direct kan gebruiken als naam voor jullie repository. Selecteer hier `Public`, zodat we later bij het nakijken direct toegang hebben tot jullie code. Klik ook op de vinkjes voor "Add a README file" en "Add .gitignore". Selecteer Python voor je `.gitignore`-template. Dit zorgt ervoor dat er geen onnodige files worden opgeslagen in je repository. Klik daarna op "Create repository" om het process af te ronden.
 
-  * Werkt tenminste één van jullie met MacOS? Voeg dan direct handmatig de regel `.DS_Store` toe aan de `.gitignore`!
+    * Werkt tenminste één van jullie met MacOS? Voeg dan direct handmatig de regel `.DS_Store` toe aan de `.gitignore`!
 
 3. Zodra de groeps-repository aangemaakt is, klik op "Settings -> Manage access". Hier kan de eigenaar van de repository (degene die het aangemaakt heeft) instellen wie er toegang heeft om veranderingen te mogen maken aan de repository met de knop "Invite a collaborator". Voeg alle andere groepsleden toe d.m.v. hun gebruikersnaam.
 
